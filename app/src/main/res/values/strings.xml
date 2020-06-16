@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">T I M E R</string>
+    <string name="current_time">R</string>
+    <string name="start">START</string>
+    <string name="stop">PAUSE</string>
+    <string name="reset">RESET</string>
+
+</resources>
